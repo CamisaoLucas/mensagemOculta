@@ -1,0 +1,39 @@
+body{
+    background: url(https://i0.wp.com/parafraseandolivros.com.br/wp-content/uploads/2015/11/matrix.gif?ssl=1);
+    
+}
+form{
+    padding-top: 170px;
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+   
+  
+}
+.pai{
+    
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    padding: 20px 0 50px 0px;
+    border: 3px solid black;
+    border-radius: 5px; background-color: aliceblue;
+}
+
+
+
+
+
+.codMensagem{
+    display: none;
+}
+
+.invisivel{
+    display: none;
+}
+button{
+    border: 3px solid black;
+    border-radius: 5px;
+    background-color:rgb(206, 206, 206);
+    font-size: 18px;
+}
